@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pressure.png</file>
+        <file>thermo.png</file>
+    </qresource>
+</RCC>
